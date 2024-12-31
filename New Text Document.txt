@@ -1,0 +1,6 @@
+npm install bcrypt cloudinary cookie-parser cors dotenv express express-fileupload jsonwebtoken mongoose validator
+
+
+https://youtu.be/6xRWaTWl2P0?si=Mt-EIgs1SX31oLeQ
+
+npm run dev
